@@ -1,0 +1,35 @@
+.header {
+    padding: 40px 0 0 0;
+}
+
+.container-header {
+    width: 1200px;
+    padding: 0 15px;
+    margin: 0 auto;
+    /* чтобы навигация находилась по центру */
+}
+
+.row {
+    display: flex;
+}
+
+.space-between {
+    justify-content: space-between;
+}
+
+.logo {
+    font-family: 'Playfair Display';
+    font-weight: 500;
+    font-size: 24px;
+}
+
+.nav a:hover {
+    color: #000;
+    transition: color 0.2s ease-in;
+}
+
+@media (max-width: 480px) {
+    .header {
+        display: none;
+    }
+}
