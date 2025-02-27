@@ -1,0 +1,38 @@
+.success {
+    display: flex;
+    align-items: flex-start;
+    padding: 133px 0 0 0;
+
+}
+
+p {
+    padding: 20px 0 0 0;
+}
+
+.container-success {
+    width: 485px;
+    color: #000;
+}
+
+.success-title {
+    margin-top: 159px;
+    position: relative;
+    font-family: 'Playfair Display';
+    font-weight: 700;
+    font-size: 48px;
+    color: #000;
+    text-align: center;
+}
+
+.success-description {
+    margin-bottom: 288px;
+    font-weight: 500;
+    font-size: 24px;
+    color: #000;
+    text-align: center;
+    padding: 15px;
+}
+
+.success-img {
+    padding: 0 0 203px 145px ;    
+}

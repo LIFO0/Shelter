@@ -1,0 +1,25 @@
+.help-title {
+    font-family: 'Playfair Display';
+    font-weight: 700;
+    font-size: 48px;
+    color: #000;
+    text-align: center;
+    padding: 0 0 80px;
+}
+
+
+.help-img {
+    display: flex;
+    justify-content: center; /* Выравнивание по горизонтали */
+    gap: 245px;
+}
+
+.help-description {
+    font-weight: 500;
+    font-size: 28px;
+    color: #000;
+    display: flex;
+    justify-content: center; /* Выравнивание по горизонтали */
+    gap: 275px;
+    padding: 0 0 172px;
+}

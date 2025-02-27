@@ -1,0 +1,24 @@
+.adopt-img-text {
+    background-image: url("./../img/freepik__adjust__59215\ 1\ \(1\).jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 508px;
+    
+}
+
+.adopt-title {
+    font-family: 'Playfair Display';
+    font-weight: 700;
+    font-size: 36px;
+    display: flex;
+    justify-content: center;
+    padding: 184px 0 0 0;
+}
+
+.adopt-discription {
+    font-weight: 500;
+    font-size: 20px;
+    text-align: center;
+    padding: 20px 0 0 0;
+    
+}

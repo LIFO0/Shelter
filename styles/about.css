@@ -18,7 +18,7 @@
 
 
 .about-title {
-    margin-top: 159px;
+    padding-top: 159px;
     position: relative;
     font-family: 'Playfair Display';
     font-weight: 700;
@@ -34,4 +34,17 @@
     color: #000;
     text-align: center;
     padding: 15px;
+}
+
+@media (max-width: 480px) {
+    .about-title {
+        padding: 40px 0 40px 0;
+    }
+    .about-description {
+        font-size: 16px;
+    }
+    .about-img {
+        width: 337px;
+        height: 449px;
+    }
 }

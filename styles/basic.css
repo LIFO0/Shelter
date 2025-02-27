@@ -32,6 +32,11 @@ a {
     transition: color 0.2s ease-in;
 }
 
+@media (max-width: 480px) {
+    body {
+        background-image: url("./../img/grayscale-shot-black-labrador-retriever\ 1\ \(2\).jpg");
+    }
+}
 
 
 
